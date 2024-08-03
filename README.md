@@ -19,7 +19,7 @@
 - Jest
 - PlayWright
 
-## Open Source
+## Open source
 - [Toss | suspensive](https://github.com/toss/suspensive/pulls?q=is%3Apr+author%3Afe-dudu) - Contributor
 - [Toss | es-hangul](https://github.com/toss/es-hangul/pulls?q=is%3Apr+author%3Afe-dudu) - Contributor
 - [Toss | overlay-kit](https://github.com/toss/overlay-kit/pulls?q=is%3Apr+author%3Afe-dudu) - Contributor
