@@ -12,12 +12,12 @@
 ## FE-stack
 - TypeScript
 - React
-- Next.js
+- Next
+- Emotion
+- MUi
+- Storybook
 - Jest
 - PlayWright
-- Emotion
-- Storybook
-- MUi
 
 ## Open Source
 - [Toss | suspensive](https://github.com/toss/suspensive/pulls?q=is%3Apr+author%3Afe-dudu) - Contributor
