@@ -14,7 +14,7 @@
 - React
 - Next
 - Emotion
-- MUi
+- MUI
 - Storybook
 - Jest
 - PlayWright
