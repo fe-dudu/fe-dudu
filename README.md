@@ -5,8 +5,8 @@
 
 
 ## FE-experience
-- 🐥 Agilegrowth Web Frontend (23.01 ~ 23.08)
-- 🦖 Carbonsaurus Web Frontend (23.08 ~ )
+- Agilegrowth Web Frontend (23.01 ~ 23.08)
+- Carbonsaurus Web Frontend (23.08 ~ )
 
   
 ## FE-stack
