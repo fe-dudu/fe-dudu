@@ -12,7 +12,7 @@
 ## FE-stack
 - TypeScript
 - React
-- Next
+- Next.js
 - Emotion
 - MUI
 - Storybook
