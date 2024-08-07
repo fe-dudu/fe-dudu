@@ -14,7 +14,6 @@
 - React
 - Next.js
 - Emotion
-- MUI
 - Storybook
 - Jest
 - PlayWright
