@@ -5,8 +5,8 @@ TypeScript, React, Next.js, Emotion, Storybook, Jest, Playwright를 사용하여
 
 
 ## FE-experience
-- Agilegrowth Web Frontend (23.01 ~ 23.08)
 - Carbonsaurus Web Frontend (23.08 ~ )
+- Agilegrowth Web Frontend (23.01 ~ 23.08)
 
   
 ## FE-stack
