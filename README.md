@@ -17,6 +17,7 @@ TypeScript, React, Next.js, Emotion, Storybook, Jest, Playwright를 사용하여
 - TypeScript
 - React
 - Next.js
+- Tanstack-query
 - Emotion
 - Storybook
 - Jest
