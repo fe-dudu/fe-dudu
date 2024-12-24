@@ -9,7 +9,7 @@ TypeScript, React, Next.js, Tanstack-query, Emotion, Storybook, Jest, Playwright
 
 
 ## FE-experience
-- Carbonsaurus Web Frontend (23.08 ~ 25.01)
+- Carbonsaurus Web Frontend (23.08 ~ )
 - Agilegrowth Web Frontend (23.01 ~ 23.08)
 
   
