@@ -9,7 +9,6 @@ TypeScript, React, Next.js, Tanstack-query, Emotion, Storybook, Jest, Playwright
 
 
 ## Experience
-- Gluwa Web Frontend (25.01 ~ )
 - Carbonsaurus Web Frontend (23.08 ~ 25.01)
 - Agilegrowth Web Frontend (23.01 ~ 23.08)
 
