@@ -7,11 +7,6 @@ Seed 단계 스타트업에 합류해 프론트엔드 DRI로서 1년 이상 근�
 
 TypeScript, React, Next.js, Tanstack-query, Emotion, Storybook, Jest, Playwright를 사용하여 개발하는 것을 선호하며 다양한 도메인에서 경험을 쌓고 싶습니다.
 
-
-## Experience
-- Carbonsaurus Web Frontend (23.08 ~ 25.01)
-- Agilegrowth Web Frontend (23.01 ~ 23.08)
-
   
 ## Stack
 - TypeScript
