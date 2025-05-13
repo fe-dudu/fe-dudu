@@ -26,6 +26,7 @@ Seed 단계 스타트업에서 프론트엔드 엔지니어로 근무하며 MVP�
 - [fe-dudu | react-fog](https://www.npmjs.com/package/react-fog) - Author
 - [wevm | wagmi](https://github.com/wevm/wagmi/issues?q=is%3Apr+author%3Afe-dudu) - Contributor
 - [wevm | viem](https://github.com/wevm/viem/pulls?q=fe-dudu) - Contributor
+- [Toss | use-funnel](https://github.com/toss/use-funnel/commits?author=fe-dudu) - Contributor
 - [Toss | frontend-fundamentals](https://github.com/toss/frontend-fundamentals/issues?q=is%3Apr+author%3Afe-dudu) - Contributor
 - [Toss | suspensive](https://github.com/toss/suspensive/pulls?q=is%3Apr+author%3Afe-dudu) - Contributor
 - [Toss | overlay-kit](https://github.com/toss/overlay-kit/pulls?q=is%3Apr+author%3Afe-dudu) - Contributor
