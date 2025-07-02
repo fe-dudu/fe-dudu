@@ -25,6 +25,7 @@ Seed 단계 스타트업에서 프론트엔드 엔지니어로 근무하며 MVP�
 - [fe-dudu | expo-horizontal-picker](https://www.npmjs.com/package/expo-horizontal-picker) - Author
 - [fe-dudu | expo-ignore-battery-optimizations](https://www.npmjs.com/package/expo-ignore-battery-optimizations) - Author
 - [fe-dudu | react-fog](https://www.npmjs.com/package/react-fog) - Author
+- [software-mantion | react-native-reanimated](https://github.com/software-mansion/react-native-reanimated/issues?q=is%3Apr+author%3Afe-dudu) - Contributor
 - [wevm | wagmi](https://github.com/wevm/wagmi/issues?q=is%3Apr+author%3Afe-dudu) - Contributor
 - [wevm | viem](https://github.com/wevm/viem/pulls?q=fe-dudu) - Contributor
 - [Toss | use-funnel](https://github.com/toss/use-funnel/commits?author=fe-dudu) - Contributor
