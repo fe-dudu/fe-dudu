@@ -13,7 +13,6 @@ Seed 단계 스타트업에서 프론트엔드 엔지니어로 근무하며 MVP�
 ## Stack
 - TypeScript
 - React
-- Next.js
 - React Native
 - Expo
 - Tanstack-query
