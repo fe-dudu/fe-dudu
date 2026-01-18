@@ -6,9 +6,9 @@ Seed 단계 스타트업에서 프론트엔드 엔지니어로 근무하며 MVP�
 문제 해결과 탐구 과정에서 순수한 즐거움, 삶의 원동력을 얻습니다.
 
 ## Project
-- [mobx-spy-console](#)
-- [creditcoin-price-tracker]([https://www.npmjs.com/package/expo-ignore-battery-optimizations](https://chromewebstore.google.com/detail/creditcoin-price-tracker/ibcmeknoaadalnmnmbeafiiffdccihgf)
-- [netmon]([https://www.npmjs.com/package/react-fog](https://github.com/fe-dudu/netmon))
+- [mobx-spy-console](https://chromewebstore.google.com/detail/creditcoin-price-tracker/ibcmeknoaadalnmnmbeafiiffdccihgf)
+- [creditcoin-price-tracker](https://chromewebstore.google.com/detail/creditcoin-price-tracker/ibcmeknoaadalnmnmbeafiiffdccihgf)
+- [netmon](https://github.com/fe-dudu/netmon)
 
 ## Open source
 - [expo-horizontal-picker](https://www.npmjs.com/package/expo-horizontal-picker)
