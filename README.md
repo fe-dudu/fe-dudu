@@ -5,18 +5,14 @@ Seed 단계 스타트업에서 프론트엔드 엔지니어로 근무하며 MVP�
 
 문제 해결과 탐구 과정에서 순수한 즐거움, 삶의 원동력을 얻습니다.
 
+## Project
+- [mobx-spy-console](#)
+- [creditcoin-price-tracker]([https://www.npmjs.com/package/expo-ignore-battery-optimizations](https://chromewebstore.google.com/detail/creditcoin-price-tracker/ibcmeknoaadalnmnmbeafiiffdccihgf)
+- [netmon]([https://www.npmjs.com/package/react-fog](https://github.com/fe-dudu/netmon))
+
 ## Open source
-- [fe-dudu | expo-horizontal-picker](https://www.npmjs.com/package/expo-horizontal-picker) - Author
-- [fe-dudu | expo-ignore-battery-optimizations](https://www.npmjs.com/package/expo-ignore-battery-optimizations) - Author
-- [fe-dudu | react-fog](https://www.npmjs.com/package/react-fog) - Author
-- [software-mantion | react-native-reanimated](https://github.com/software-mansion/react-native-reanimated/issues?q=is%3Apr+author%3Afe-dudu) - Contributor
-- [wevm | wagmi](https://github.com/wevm/wagmi/issues?q=is%3Apr+author%3Afe-dudu) - Contributor
-- [wevm | viem](https://github.com/wevm/viem/pulls?q=fe-dudu) - Contributor
-- [Toss | use-funnel](https://github.com/toss/use-funnel/commits?author=fe-dudu) - Contributor
-- [Toss | frontend-fundamentals](https://github.com/toss/frontend-fundamentals/issues?q=is%3Apr+author%3Afe-dudu) - Contributor
-- [Toss | suspensive](https://github.com/toss/suspensive/pulls?q=is%3Apr+author%3Afe-dudu) - Contributor
-- [Toss | overlay-kit](https://github.com/toss/overlay-kit/pulls?q=is%3Apr+author%3Afe-dudu) - Contributor
-- [Toss | es-hangul](https://github.com/toss/es-hangul/pulls?q=is%3Apr+author%3Afe-dudu) - Contributor
-- [MDN | translated-content](https://github.com/mdn/translated-content/pulls?q=is%3Apr+is%3Aclosed+author%3Afe-dudu) - Contributor
+- [expo-horizontal-picker](https://www.npmjs.com/package/expo-horizontal-picker)
+- [expo-ignore-battery-optimizations](https://www.npmjs.com/package/expo-ignore-battery-optimizations)
+- [react-fog](https://www.npmjs.com/package/react-fog)
 
 
