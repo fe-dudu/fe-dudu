@@ -6,8 +6,8 @@ Seed 단계 스타트업에서 프론트엔드 엔지니어로 근무하며 MVP�
 문제 해결과 탐구 과정에서 순수한 즐거움, 삶의 원동력을 얻습니다.
 
 ## Project
-- [[chrome extension]](#) Mobx Spy Console
-- [[chrome extension]](https://chromewebstore.google.com/detail/creditcoin-price-tracker/ibcmeknoaadalnmnmbeafiiffdccihgf) Creditcoin Price Tracker
+- [[Chrome Extension]](#) Mobx Spy Console
+- [[Chrome Extension]](https://chromewebstore.google.com/detail/creditcoin-price-tracker/ibcmeknoaadalnmnmbeafiiffdccihgf) Creditcoin Price Tracker
 - [[CLI tool]](https://github.com/fe-dudu/netmon?tab=readme-ov-file#netmon) netmon
 
 ## Open source
