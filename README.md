@@ -6,13 +6,13 @@ Seed 단계 스타트업에서 프론트엔드 엔지니어로 근무하며 MVP�
 문제 해결과 탐구 과정에서 순수한 즐거움, 삶의 원동력을 얻습니다.
 
 ## Project
-- [[Chrome Extension]](#) Mobx Spy Console
-- [[Chrome Extension]](https://chromewebstore.google.com/detail/creditcoin-price-tracker/ibcmeknoaadalnmnmbeafiiffdccihgf) Creditcoin Price Tracker
-- [[CLI tool]](https://github.com/fe-dudu/netmon?tab=readme-ov-file#netmon) netmon
+- [CLI Tool | netmon](https://github.com/fe-dudu/netmon?tab=readme-ov-file#netmon)
+- [Chrome Extension | Mobx Spy Console](https://chromewebstore.google.com/detail/mobx-spy-console/jhpkhhkgjcidmhaoadakhmekjpoofeic)
+- [Chrome Extension | Creditcoin Price Tracker](https://chromewebstore.google.com/detail/creditcoin-price-tracker/ibcmeknoaadalnmnmbeafiiffdccihgf)
 
 ## Open source
-- [[npm]](https://www.npmjs.com/package/expo-horizontal-picker) expo-horizontal-picker
-- [[npm]](https://www.npmjs.com/package/expo-ignore-battery-optimizations) expo-ignore-battery-optimizations
-- [[npm]](https://www.npmjs.com/package/react-fog) react-fog
+- [npm | expo-horizontal-picker](https://www.npmjs.com/package/expo-horizontal-picker)
+- [npm | expo-ignore-battery-optimizations](https://www.npmjs.com/package/expo-ignore-battery-optimizations)
+- [npm | react-fog](https://www.npmjs.com/package/react-fog)
 
 
