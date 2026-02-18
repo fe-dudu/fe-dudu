@@ -6,8 +6,8 @@ Seed 단계 스타트업에서 프론트엔드 엔지니어로 근무하며 MVP 
 문제를 해결하고 새로운 것을 탐구하는 과정 자체에서 즐거움과 동기를 얻습니다.
 
 ## Project
+- [VSCode Extension | React Query Visualizer](https://marketplace.visualstudio.com/items?itemName=fe-dudu.react-query-visualizer)
 - [Chrome Extension | Mobx Spy Console](https://chromewebstore.google.com/detail/mobx-spy-console/jhpkhhkgjcidmhaoadakhmekjpoofeic)
-- [Chrome Extension | Creditcoin Price Tracker](https://chromewebstore.google.com/detail/creditcoin-price-tracker/ibcmeknoaadalnmnmbeafiiffdccihgf)
 - [CLI Tool | netmon](https://github.com/fe-dudu/netmon?tab=readme-ov-file#netmon)
   
 ## Open source
