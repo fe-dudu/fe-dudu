@@ -32,7 +32,7 @@
 
 <tr>
 <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="20"/>
 </td>
 <td>
   <a href="https://github.com/fe-dudu/netmon?tab=readme-ov-file#netmon">
