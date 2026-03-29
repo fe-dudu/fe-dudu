@@ -1,22 +1,86 @@
 ## Project
 
-- [VSCode Extension | React Query Visualizer](https://marketplace.visualstudio.com/items?itemName=fe-dudu.react-query-visualizer) 
-  ![VS Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/fe-dudu.react-query-visualizer?logo=visualstudiocode)
-  ![Open VSX Downloads](https://img.shields.io/open-vsx/dt/fe-dudu/react-query-visualizer?logo=eclipseide)
+<table>
+<tr>
+<td align="center" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/>
+</td>
+<td>
+  <a href="https://marketplace.visualstudio.com/items?itemName=fe-dudu.react-query-visualizer">
+    React Query Visualizer
+  </a>
+</td>
+<td align="right">
+  <img src="https://img.shields.io/visual-studio-marketplace/d/fe-dudu.react-query-visualizer?logo=visualstudiocode"/>
+  <img src="https://img.shields.io/open-vsx/dt/fe-dudu/react-query-visualizer?logo=eclipseide"/>
+</td>
+</tr>
 
-- [Chrome Extension | Mobx Spy Console](https://chromewebstore.google.com/detail/mobx-spy-console/jhpkhhkgjcidmhaoadakhmekjpoofeic)
-  ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/jhpkhhkgjcidmhaoadakhmekjpoofeic?logo=googlechrome)
+<tr>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20"/>
+</td>
+<td>
+  <a href="https://chromewebstore.google.com/detail/mobx-spy-console/jhpkhhkgjcidmhaoadakhmekjpoofeic">
+    Mobx Spy Console
+  </a>
+</td>
+<td align="right">
+  <img src="https://img.shields.io/chrome-web-store/users/jhpkhhkgjcidmhaoadakhmekjpoofeic?logo=googlechrome"/>
+</td>
+</tr>
 
-- [CLI Tool | netmon](https://github.com/fe-dudu/netmon?tab=readme-ov-file#netmon)
-  ![GitHub Downloads (all releases)](https://img.shields.io/github/downloads/fe-dudu/netmon/total?logo=github)
+<tr>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/>
+</td>
+<td>
+  <a href="https://github.com/fe-dudu/netmon?tab=readme-ov-file#netmon">
+    netmon
+  </a>
+</td>
+<td align="right">
+  <img src="https://img.shields.io/github/downloads/fe-dudu/netmon/total?logo=github"/>
+</td>
+</tr>
+</table>
 
 ## Open source
 
-- [npm | react-fog](https://www.npmjs.com/package/react-fog)
-  ![npm monthly downloads](https://img.shields.io/npm/dm/react-fog?logo=npm)
+<table>
+<tr>
+<td align="center" width="40">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20"/>
+</td>
+<td>
+  <a href="https://www.npmjs.com/package/react-fog">react-fog</a>
+</td>
+<td align="right">
+  <img src="https://img.shields.io/npm/dm/react-fog?logo=npm"/>
+</td>
+</tr>
 
-- [npm | expo-horizontal-picker](https://www.npmjs.com/package/expo-horizontal-picker)
-  ![npm monthly downloads](https://img.shields.io/npm/dm/expo-horizontal-picker?logo=npm)
+<tr>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20"/>
+</td>
+<td>
+  <a href="https://www.npmjs.com/package/expo-horizontal-picker">expo-horizontal-picker</a>
+</td>
+<td align="right">
+  <img src="https://img.shields.io/npm/dm/expo-horizontal-picker?logo=npm"/>
+</td>
+</tr>
 
-- [npm | expo-ignore-battery-optimizations](https://www.npmjs.com/package/expo-ignore-battery-optimizations)
-  ![npm monthly downloads](https://img.shields.io/npm/dm/expo-ignore-battery-optimizations?logo=npm)
+<tr>
+<td align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20"/>
+</td>
+<td>
+  <a href="https://www.npmjs.com/package/expo-ignore-battery-optimizations">expo-ignore-battery-optimizations</a>
+</td>
+<td align="right">
+  <img src="https://img.shields.io/npm/dm/expo-ignore-battery-optimizations?logo=npm"/>
+</td>
+</tr>
+</table>
