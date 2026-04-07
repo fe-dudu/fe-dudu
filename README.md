@@ -14,7 +14,7 @@
 
 <td align="right" valign="middle">
   <img src="https://img.shields.io/badge/TanStack-Community%20Resource-334155?logo=reactquery&logoColor=white"/>
-  <img src="https://img.shields.io/visual-studio-marketplace/d/fe-dudu.react-query-visualizer?logo=visualstudiocode"/>
+  <img src="https://img.shields.io/visual-studio-marketplace/d/fe-dudu.react-query-visualizer?logo=visualstudiocode&cacheSeconds=86400"/>
   <img src="https://img.shields.io/open-vsx/dt/fe-dudu/react-query-visualizer?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBmaWxsPSJub25lIj48ZyB0cmFuc2Zvcm09InNjYWxlKDAuNykgdHJhbnNsYXRlKDE1LCAxNSkiPjxwYXRoIGQ9Ik0zMCA0NC4yTDUyLjYgNUg3LjN6TTQuNiA4OC41aDQ1LjNMMjcuMiA0OS40em01MSAwbDIyLjYgMzkuMiAyMi42LTM5LjJ6IiBmaWxsPSIjYzE2MGVmIi8+PC9nPjwvc3ZnPg=="/>
 </td>
 </tr>
