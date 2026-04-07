@@ -2,15 +2,18 @@
 
 <table>
 <tr>
-<td align="center" width="40">
+<td align="center" width="40" valign="middle">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20"/>
 </td>
-<td>
+
+<td valign="middle">
   <a href="https://marketplace.visualstudio.com/items?itemName=fe-dudu.react-query-visualizer">
     React Query Visualizer
   </a>
 </td>
-<td align="right">
+
+<td align="right" valign="middle">
+  <img src="https://img.shields.io/badge/TanStack-Community%20Resource-334155?logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/visual-studio-marketplace/d/fe-dudu.react-query-visualizer?logo=visualstudiocode"/>
   <img src="https://img.shields.io/open-vsx/dt/fe-dudu/react-query-visualizer?logo=eclipseide"/>
 </td>
