@@ -1,6 +1,6 @@
 ## Project
 
-| Platform | Project | Stats |
+| Platform | Project | Downloads |
 |:--:|:--|--:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18"/> | [React Query Visualizer](https://marketplace.visualstudio.com/items?itemName=fe-dudu.react-query-visualizer) | <img src="https://img.shields.io/badge/TanStack-Community%20Resource-334155?logo=reactquery&logoColor=white"/> <img src="https://img.shields.io/open-vsx/dt/fe-dudu/react-query-visualizer?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBmaWxsPSJub25lIj48ZyB0cmFuc2Zvcm09InNjYWxlKDAuNykgdHJhbnNsYXRlKDE1LCAxNSkiPjxwYXRoIGQ9Ik0zMCA0NC4yTDUyLjYgNUg3LjN6TTQuNiA4OC41aDQ1LjNMMjcuMiA0OS40em01MSAwbDIyLjYgMzkuMiAyMi42LTM5LjJ6IiBmaWxsPSIjYzE2MGVmIi8+PC9nPjwvc3ZnPg=="/> |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="18"/> | [Mobx Spy Console](https://chromewebstore.google.com/detail/mobx-spy-console/jhpkhhkgjcidmhaoadakhmekjpoofeic) | <img src="https://img.shields.io/chrome-web-store/users/jhpkhhkgjcidmhaoadakhmekjpoofeic?logo=googlechrome"/> |
