@@ -93,12 +93,6 @@
             height="20"
             style="max-width: 100%; height: auto; max-height: 20px;"
           >
-          <img
-            alt="TanStack Community Resource"
-            src="https://img.shields.io/badge/TanStack-Community%20Resource-334155?logo=reactquery&logoColor=white"
-            height="20"
-            style="max-width: 100%; height: auto; max-height: 20px;"
-          >
         </span>
       </td>
     </tr>
