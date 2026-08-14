@@ -39,7 +39,7 @@
         <a href="https://github.com/fe-dudu/skills">fe-dudu/skills</a>
       </td>
       <td>
-        <a href="https://skills.sh/fe-dudu/skills">
+        <a href="https://skills.sh/fe-dudu/skills" target="_blank" rel="noopener noreferrer">
           <img
             alt="skills.sh total downloads"
             src="https://skills.sh/b/fe-dudu/skills"
@@ -68,7 +68,14 @@
       <td style="overflow-wrap: anywhere;">
         <a href="https://united.best11.xyz">United Best Xi</a>
       </td>
-      <td></td>
+      <td>
+        <a href="https://cloud.umami.is/analytics/us/share/pu2K4qblLUjYfy5R/compare?compare=prev&date=12month&page=1" target="_blank" rel="noopener noreferrer">
+          <img
+            src="https://img.shields.io/badge/compare-traffic-6366F1?style=flat-square&amp;logo=chartdotjs&amp;logoColor=white"
+            alt="Compare traffic"
+          >
+        </a>
+      </td>
     </tr>
     <tr>
       <td align="center">
@@ -81,7 +88,7 @@
         >
       </td>
       <td style="overflow-wrap: anywhere;">
-        <a href="https://marketplace.visualstudio.com/items?itemName=fe-dudu.react-query-visualizer">
+        <a href="https://marketplace.visualstudio.com/items?itemName=fe-dudu.react-query-visualizer" target="_blank" rel="noopener noreferrer">
           React Query Visualizer
         </a>
       </td>
@@ -107,7 +114,7 @@
         >
       </td>
       <td style="overflow-wrap: anywhere;">
-        <a href="https://chromewebstore.google.com/detail/mobx-spy-console/jhpkhhkgjcidmhaoadakhmekjpoofeic">
+        <a href="https://chromewebstore.google.com/detail/mobx-spy-console/jhpkhhkgjcidmhaoadakhmekjpoofeic" target="_blank" rel="noopener noreferrer">
           Mobx Spy Console
         </a>
       </td>
@@ -131,7 +138,7 @@
         >
       </td>
       <td style="overflow-wrap: anywhere;">
-        <a href="https://github.com/fe-dudu/netmon?tab=readme-ov-file#netmon">
+        <a href="https://github.com/fe-dudu/netmon?tab=readme-ov-file#netmon" target="_blank" rel="noopener noreferrer">
           netmon
         </a>
       </td>
@@ -187,7 +194,7 @@
         >
       </td>
       <td style="overflow-wrap: anywhere;">
-        <a href="https://www.npmjs.com/package/react-fog">react-fog</a>
+        <a href="https://www.npmjs.com/package/react-fog" target="_blank" rel="noopener noreferrer">react-fog</a>
       </td>
       <td>
         <img
@@ -209,7 +216,7 @@
         >
       </td>
       <td style="overflow-wrap: anywhere;">
-        <a href="https://www.npmjs.com/package/expo-horizontal-picker">
+        <a href="https://www.npmjs.com/package/expo-horizontal-picker" target="_blank" rel="noopener noreferrer">
           expo-horizontal-picker
         </a>
       </td>
@@ -233,7 +240,7 @@
         >
       </td>
       <td style="overflow-wrap: anywhere;">
-        <a href="https://www.npmjs.com/package/expo-ignore-battery-optimizations">
+        <a href="https://www.npmjs.com/package/expo-ignore-battery-optimizations" target="_blank" rel="noopener noreferrer">
           expo-ignore-battery-optimizations
         </a>
       </td>
