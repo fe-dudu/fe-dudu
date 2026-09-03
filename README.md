@@ -52,34 +52,6 @@
     <tr>
       <td align="center">
         <img
-          alt="World Wide Web"
-          src="https://cdn-icons-png.flaticon.com/512/1006/1006720.png"
-          width="24"
-          height="24"
-          style="
-            width: 24px;
-            height: 24px;
-            object-fit: contain;
-            display: block;
-            margin: auto;
-          "
-        >
-      </td>
-      <td style="overflow-wrap: anywhere;">
-        <a href="https://united.best11.xyz">United Best Xi</a>
-      </td>
-      <td>
-        <a href="https://cloud.umami.is/analytics/us/share/pu2K4qblLUjYfy5R/compare?compare=prev&date=12month&page=1" target="_blank" rel="noopener noreferrer">
-          <img
-            src="https://img.shields.io/badge/compare-traffic-6366F1?style=flat-square&amp;logo=chartdotjs&amp;logoColor=white"
-            alt="Compare traffic"
-          >
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img
           alt="Visual Studio Code"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
           width="24"
