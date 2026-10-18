@@ -1,23 +1,51 @@
 ## Projects
 
-### Tools
-
-- [React Query Visualizer](https://github.com/fe-dudu/react-query-visualizer) — TanStack Query debugging in VS Code. [![VS Code](https://img.shields.io/visual-studio-marketplace/v/fe-dudu.react-query-visualizer?style=flat-square&amp;logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=fe-dudu.react-query-visualizer) [![Open VSX](https://img.shields.io/open-vsx/dt/fe-dudu/react-query-visualizer?style=flat-square&amp;label=Open%20VSX)](https://open-vsx.org/extension/fe-dudu/react-query-visualizer)
-- [MobX Spy Console](https://github.com/fe-dudu/mobx-spy-console) — Live MobX event debugging for Chrome. [![Chrome Web Store](https://img.shields.io/chrome-web-store/users/jhpkhhkgjcidmhaoadakhmekjpoofeic?style=flat-square&amp;logo=googlechrome)](https://chromewebstore.google.com/detail/mobx-spy-console/jhpkhhkgjcidmhaoadakhmekjpoofeic)
-- [netmon](https://github.com/fe-dudu/netmon) — Network monitor for the terminal. [![Downloads](https://img.shields.io/github/downloads/fe-dudu/netmon/total?style=flat-square&amp;logo=github)](https://github.com/fe-dudu/netmon/releases)
-
-### Open-source packages
-
-- [react-fog](https://github.com/fe-dudu/react-fog) — Scroll overflow cues for React. [![npm](https://img.shields.io/npm/dt/react-fog?style=flat-square&amp;logo=npm)](https://www.npmjs.com/package/react-fog)
-- [expo-horizontal-picker](https://github.com/fe-dudu/expo-horizontal-picker) — Horizontal picker for React Native and Expo. [![npm](https://img.shields.io/npm/dt/expo-horizontal-picker?style=flat-square&amp;logo=npm)](https://www.npmjs.com/package/expo-horizontal-picker)
-- [expo-ignore-battery-optimizations](https://github.com/fe-dudu/expo-ignore-battery-optimizations) — Android battery optimization permissions for Expo. [![npm](https://img.shields.io/npm/dt/expo-ignore-battery-optimizations?style=flat-square&amp;logo=npm)](https://www.npmjs.com/package/expo-ignore-battery-optimizations)
+<table>
+  <tbody>
+    <tr>
+      <td colspan="3"><strong>Libraries · downloads</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20" height="20" alt="npm"></td>
+      <td style="white-space: nowrap;"><a href="https://github.com/fe-dudu/react-fog">react-fog</a></td>
+      <td><a href="https://www.npmjs.com/package/react-fog"><img alt="npm downloads" src="https://img.shields.io/npm/dt/react-fog?style=flat-square&amp;logo=npm"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20" height="20" alt="npm"></td>
+      <td style="white-space: nowrap;"><a href="https://github.com/fe-dudu/expo-ignore-battery-optimizations">Expo Battery Optimization</a></td>
+      <td><a href="https://www.npmjs.com/package/expo-ignore-battery-optimizations"><img alt="npm downloads" src="https://img.shields.io/npm/dt/expo-ignore-battery-optimizations?style=flat-square&amp;logo=npm"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20" height="20" alt="npm"></td>
+      <td style="white-space: nowrap;"><a href="https://github.com/fe-dudu/expo-horizontal-picker">Expo Horizontal Picker</a></td>
+      <td><a href="https://www.npmjs.com/package/expo-horizontal-picker"><img alt="npm downloads" src="https://img.shields.io/npm/dt/expo-horizontal-picker?style=flat-square&amp;logo=npm"></a></td>
+    </tr>
+    <tr>
+      <td colspan="3"><strong>Tools · usage</strong></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="20" alt="VS Code"></td>
+      <td style="white-space: nowrap;"><a href="https://github.com/fe-dudu/react-query-visualizer">React Query Visualizer</a></td>
+      <td><a href="https://open-vsx.org/extension/fe-dudu/react-query-visualizer"><img alt="Open VSX downloads" src="https://img.shields.io/open-vsx/dt/fe-dudu/react-query-visualizer?style=flat-square&amp;label=Open%20VSX"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" height="20" alt="Go"></td>
+      <td style="white-space: nowrap;"><a href="https://github.com/fe-dudu/netmon">netmon</a></td>
+      <td><a href="https://github.com/fe-dudu/netmon/releases"><img alt="GitHub downloads" src="https://img.shields.io/github/downloads/fe-dudu/netmon/total?style=flat-square&amp;logo=github"></a></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="20" height="20" alt="Chrome"></td>
+      <td style="white-space: nowrap;"><a href="https://github.com/fe-dudu/mobx-spy-console">MobX Spy Console</a></td>
+      <td><a href="https://chromewebstore.google.com/detail/mobx-spy-console/jhpkhhkgjcidmhaoadakhmekjpoofeic"><img alt="Chrome Web Store users" src="https://img.shields.io/chrome-web-store/users/jhpkhhkgjcidmhaoadakhmekjpoofeic?style=flat-square&amp;logo=googlechrome"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## OSS Contributions
 
 <p>
   <img alt="26 merged pull requests" src="https://img.shields.io/badge/26-merged%20PRs-6e56cf?style=flat-square&amp;logo=github">
   <img alt="12 open-source repositories" src="https://img.shields.io/badge/12-open%20source%20repos-2f855a?style=flat-square">
-  <img alt="2024 to 2026" src="https://img.shields.io/badge/2024%E2%80%932026-contributions-2563eb?style=flat-square">
 </p>
 
 <details>
