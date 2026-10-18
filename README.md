@@ -12,12 +12,12 @@
     </tr>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20" height="20" alt="npm"></td>
-      <td style="white-space: nowrap;"><a href="https://github.com/fe-dudu/expo-ignore-battery-optimizations">Expo Battery Optimization</a></td>
+      <td style="white-space: nowrap;"><a href="https://github.com/fe-dudu/expo-ignore-battery-optimizations">expo-ignore-battery-optimizations</a></td>
       <td><a href="https://www.npmjs.com/package/expo-ignore-battery-optimizations"><img alt="npm downloads" src="https://img.shields.io/npm/dt/expo-ignore-battery-optimizations?style=flat-square&amp;logo=npm"></a></td>
     </tr>
     <tr>
       <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="20" height="20" alt="npm"></td>
-      <td style="white-space: nowrap;"><a href="https://github.com/fe-dudu/expo-horizontal-picker">Expo Horizontal Picker</a></td>
+      <td style="white-space: nowrap;"><a href="https://github.com/fe-dudu/expo-horizontal-picker">expo-horizontal-picker</a></td>
       <td><a href="https://www.npmjs.com/package/expo-horizontal-picker"><img alt="npm downloads" src="https://img.shields.io/npm/dt/expo-horizontal-picker?style=flat-square&amp;logo=npm"></a></td>
     </tr>
     <tr>
