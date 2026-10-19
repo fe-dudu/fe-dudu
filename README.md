@@ -51,6 +51,8 @@
 <details>
   <summary><strong>Web3 &amp; blockchain</strong> · 10 merged PRs</summary>
 
+- **[Ponder](https://github.com/ponder-sh/ponder)**
+  - [Export encodeCheckpoint and decodeCheckpoint](https://github.com/ponder-sh/ponder/pull/2385)
 - **[viem](https://github.com/wevm/viem)**
   - [Add Creditcoin Multicall3 deployments](https://github.com/wevm/viem/pull/5145)
   - [Clarify multicall address requirements](https://github.com/wevm/viem/pull/5081)
@@ -59,46 +61,44 @@
   - [Add the missing parseAbi import](https://github.com/wevm/viem/pull/3303)
   - [Remove an extra quote from Creditcoin3 testnet RPC URLs](https://github.com/wevm/viem/pull/3261)
   - [Add the Creditcoin3 chain](https://github.com/wevm/viem/pull/3254)
-- **[wagmi](https://github.com/wevm/wagmi)**
-  - [Fix code to ensure line breaks](https://github.com/wevm/wagmi/pull/4534)
-- **[Ponder](https://github.com/ponder-sh/ponder)**
-  - [Export encodeCheckpoint and decodeCheckpoint](https://github.com/ponder-sh/ponder/pull/2385)
 - **[Chainlist](https://github.com/DefiLlama/chainlist)**
   - [Add support for Creditcoin chains](https://github.com/DefiLlama/chainlist/pull/1962)
+- **[wagmi](https://github.com/wevm/wagmi)**
+  - [Fix code to ensure line breaks](https://github.com/wevm/wagmi/pull/4534)
 </details>
 
 <details>
   <summary><strong>React &amp; UI ecosystem</strong> · 11 merged PRs</summary>
 
+- **[TanStack Query](https://github.com/TanStack/query)**
+  - [Add React Query Visualizer to community projects](https://github.com/TanStack/query/pull/10351)
+- **[use-funnel](https://github.com/toss/use-funnel)**
+  - [Skip setParams on unfocused screens to prevent a navigation warning](https://github.com/toss/use-funnel/pull/163)
+  - [Add the install command to the docs](https://github.com/toss/use-funnel/pull/115)
 - **[overlay-kit](https://github.com/toss/overlay-kit)**
-  - [Improve test coverage](https://github.com/toss/overlay-kit/pull/117)
   - [Add footer content](https://github.com/toss/overlay-kit/pull/116)
+  - [Improve test coverage](https://github.com/toss/overlay-kit/pull/117)
   - [Correct favicon name and extension](https://github.com/toss/overlay-kit/pull/115)
   - [Add useOverlayList tests](https://github.com/toss/overlay-kit/pull/16)
   - [Test useOverlayContext unmountAll](https://github.com/toss/overlay-kit/pull/9)
   - [Use overlay.unmount in the test](https://github.com/toss/overlay-kit/pull/7)
-- **[use-funnel](https://github.com/toss/use-funnel)**
-  - [Skip setParams on unfocused screens to prevent a navigation warning](https://github.com/toss/use-funnel/pull/163)
-  - [Add the install command to the docs](https://github.com/toss/use-funnel/pull/115)
 - **[Suspensive](https://github.com/toss/suspensive)**
   - [Add tests for the Wrap class](https://github.com/toss/suspensive/pull/1156)
   - [Add tests for the React Query copy function](https://github.com/toss/suspensive/pull/1151)
-- **[TanStack Query](https://github.com/TanStack/query)**
-  - [Add React Query Visualizer to community projects](https://github.com/TanStack/query/pull/10351)
 </details>
 
 <details>
   <summary><strong>Language, docs &amp; developer tools</strong> · 6 merged PRs</summary>
 
+- **[Biome](https://github.com/biomejs/biome)**
+  - [Handle irregular whitespace in CSS strings and trivia](https://github.com/biomejs/biome/pull/12434)
+- **[React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)**
+  - [Clarify animatedRef typing in getRelativeCoords docs](https://github.com/software-mansion/react-native-reanimated/pull/7725)
+- **[Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)**
+  - [Remove unnecessary code](https://github.com/toss/frontend-fundamentals/pull/51)
 - **[es-hangul](https://github.com/toss/es-hangul)**
   - [Use toThrowError consistently](https://github.com/toss/es-hangul/pull/166)
   - [Add amountToHangul tests](https://github.com/toss/es-hangul/pull/135)
 - **[MDN translated content](https://github.com/mdn/translated-content)**
   - [Update the Korean translation of “How browsers work”](https://github.com/mdn/translated-content/pull/21845)
-- **[React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)**
-  - [Clarify animatedRef typing in getRelativeCoords docs](https://github.com/software-mansion/react-native-reanimated/pull/7725)
-- **[Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)**
-  - [Remove unnecessary code](https://github.com/toss/frontend-fundamentals/pull/51)
-- **[Biome](https://github.com/biomejs/biome)**
-  - [Handle irregular whitespace in CSS strings and trivia](https://github.com/biomejs/biome/pull/12434)
 </details>
