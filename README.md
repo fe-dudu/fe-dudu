@@ -44,8 +44,8 @@
 ## OSS Contributions
 
 <p>
-  <img alt="26 merged pull requests" src="https://img.shields.io/badge/26-merged%20PRs-6e56cf?style=flat-square&amp;logo=github">
-  <img alt="12 open-source repositories" src="https://img.shields.io/badge/12-open%20source%20repos-2f855a?style=flat-square">
+  <img alt="27 merged pull requests" src="https://img.shields.io/badge/27-merged%20PRs-6e56cf?style=flat-square&amp;logo=github">
+  <img alt="13 open-source repositories" src="https://img.shields.io/badge/13-open%20source%20repos-2f855a?style=flat-square">
 </p>
 
 <details>
@@ -88,7 +88,7 @@
 </details>
 
 <details>
-  <summary><strong>Language, docs &amp; developer tools</strong> · 5 merged PRs</summary>
+  <summary><strong>Language, docs &amp; developer tools</strong> · 6 merged PRs</summary>
 
 - **[es-hangul](https://github.com/toss/es-hangul)**
   - [Use toThrowError consistently](https://github.com/toss/es-hangul/pull/166)
@@ -99,4 +99,6 @@
   - [Clarify animatedRef typing in getRelativeCoords docs](https://github.com/software-mansion/react-native-reanimated/pull/7725)
 - **[Frontend Fundamentals](https://github.com/toss/frontend-fundamentals)**
   - [Remove unnecessary code](https://github.com/toss/frontend-fundamentals/pull/51)
+- **[Biome](https://github.com/biomejs/biome)**
+  - [Handle irregular whitespace in CSS strings and trivia](https://github.com/biomejs/biome/pull/12434)
 </details>
